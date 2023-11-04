@@ -1,20 +1,10 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+[![Wheel Status](https://dev.azure.com/MSREnergy/EnCortex/_apis/build/status/Pip%20Release%20Pipeline?branchName=main)](https://dev.azure.com/MSREnergy/EnCortex/_build/latest?definitionId=7&branchName=main) [![Docs Status](https://dev.azure.com/MSREnergy/EnCortex/_apis/build/status/Docs%20Release%20Pipeline?branchName=main)](https://dev.azure.com/MSREnergy/EnCortex/_build/latest?definitionId=8&branchName=main) [![Compliance Status](https://dev.azure.com/MSREnergy/EnCortex/_apis/build/status/Compliance?branchName=main)](https://dev.azure.com/MSREnergy/EnCortex/_build/latest?definitionId=6&branchName=main) ![Coverage](./coverage.png)
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+![Python version](https://img.shields.io/badge/python-%5E3.8-blue) ![AzureML](https://img.shields.io/badge/azureml-supported-4179af) ![MySQL](https://img.shields.io/badge/mysql-supported-F29111) [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit) ![EAP](https://img.shields.io/badge/EAP-Early%20Access%20License-brightgreen)
+# EnCortex
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+EnCortex is a python framework designed to compose different scenarios with various constraints consisting of large-scale electrical entities scenarios and optimize based on requirements. It's works perfectly with Azure ML to conduct large scale experiments, log experiments and store models.
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+## Docs
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+Head on over to `docs/` to learn more about the framework - it's installation and usage instructions.
