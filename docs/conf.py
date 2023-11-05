@@ -57,7 +57,7 @@ extensions = [
     "myst_parser",
     # "myst_nb",
     "nbsphinx",
-    "sphinx_proof",
+    # "sphinx_proof",
     "sphinx_design",
     "sphinxcontrib.video",
     "sphinx_togglebutton",
