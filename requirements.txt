@@ -7,7 +7,8 @@ azureml-mlflow==1.44.0
 class_registry==2.1.2
 cron-descriptor==1.2.31
 cron-validator==1.0.6
-d3rlpy>=1.1.1
+numpy==1.22.4
+# d3rlpy>=1.1.1
 dask[complete]==2022.8.0
 gurobipy==10.0.0
 hydra-core==1.2.0
@@ -15,7 +16,6 @@ lightgbm==3.3.2
 matplotlib==3.5.2
 networkx==2.8.5
 numba==0.56.0
-numpy==1.22.4
 ortools==9.3.10497
 psycopg2-binary==2.9.3
 pydantic[dotenv]==1.9.1
