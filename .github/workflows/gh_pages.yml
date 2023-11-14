@@ -26,3 +26,6 @@ jobs:
         run: sudo apt-get install pandoc -y
       - id: deployment
         uses: sphinx-notes/pages@v3
+        with:
+          python_version: 3.8
+          
