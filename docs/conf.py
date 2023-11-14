@@ -88,7 +88,7 @@ templates_path = ["_templates"]
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 html_theme_options = {
-    "repository_url": "https://dev.azure.com/MSREnergy/_git/EnCortex",
+    "repository_url": "https://github.com/microsoft/EnCortex",
     "use_repository_button": True,
     "use_download_button": True,
 }

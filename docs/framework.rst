@@ -1,8 +1,8 @@
-EnCortex Reference
-------------------
+.. EnCortex Reference
+.. ------------------
 
-.. autosummary::
-    :toctree: encortex
-    :recursive:
+.. .. autosummary::
+..     :toctree: encortex
+..     :recursive:
 
-    encortex
+..     encortex
